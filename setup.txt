@@ -1,7 +1,0 @@
-
-client_id=82625787a4de4e02ac232d1728e56d3f
-client_secret=b58f06e1cbb54a1bb67b3588e7dbf89f
-device_name=benc-PC
-redirect_uri=https://example.com/callback/
-username=edgy9
-scope=user-read-private user-read-playback-state user-modify-playback-state
